@@ -1,17 +1,17 @@
 [
     {
-        "title":"Developer - Lorem ipsum Company",
-        "year":"Feb 2018 — Present",
-        "role" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        "title":"iOS developer - Sands Technologies Pvt. Ltd.",
+        "year":"Jan 15 –  Feb 17",
+        "role" : "Responsible for developing app from scratch to the deployment of final product to app store."
     },
     {
-        "title":"Developer - Lorem ipsum Company",
-        "year":"May 2017 — Feb 2018",
+        "title":"Solution developer - Spadeworx Services Pvt. Ltd.",
+        "year":"Feb 17 – Feb 18",
         "role":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-        "title":"Developer - Lorem ipsum Company",
-        "year":"July 2015 — Dec 2016",
-        "role": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "Sr. Software Enginner - Smartdata enterprises pvt Ltd.",
+        "year":"Feb 18 – Dec 19",
+        "role": "Responsible for developing app for different domain using Objective and Swift programming language.Part of client calls and also gathring requirements of application"
     }
   ]
