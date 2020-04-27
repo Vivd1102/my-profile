@@ -1,7 +1,7 @@
 [
-        {"name":"Lorem Ipsum",
+        {"name":"iOS Apps",
         "sublist":[
-            {"title":"Lorem Ipsum","more":true, "src":"mobile1_1.png",
+            {"title":"Restopics","more":true, "src":"mobile1_1.png",
             "subimg":[
             {"src":"mobile1_2.png"},
             {"src":"mobile1_3.png"}
@@ -16,19 +16,6 @@
             {"src":"mobile3_2.png"},
             {"src":"mobile3_3.png"}
             ]}
-            ]
-        },
-        {"name":"Lorem Ipsum",
-        "sublist":[
-            {"title":"Lorem Ipsum","more":false, "src":"web1.jpg"},
-            {"title":"Lorem Ipsum","more":false, "src":"web2.jpg"},
-            {"title":"Lorem Ipsum","more":false, "src":"web3.jpg"}
-            ]
-        },
-        {"name":"Lorem Ipsum",
-        "sublist":[
-            {"title":"Lorem Ipsum","more":false, "src":"mockup1.png"},
-            {"title":"Lorem Ipsum","more":false, "src":"mockup2.png"}
             ]
         }
 ]
