@@ -3,7 +3,8 @@
         "sublist":[
             {"title":"Restopics","more":true, "src":"mobile1_1.png",
             "subimg":[
-            {"src":"mobile1_2.png"}
+            {"src":"mobile1_2.png"},
+            {"src":"mobile1_3.png"}
             ]},
             {"title":"Lorem Ipsum","more":true, "src":"mobile2_1.png",
             "subimg":[
