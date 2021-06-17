@@ -1,9 +1,11 @@
 [
      {"title":"Objective C", "value":"70"},
-     {"title":"Swift", "value":"70"},
+     {"title":"Swift", "value":"80"},
      {"title":"MVC", "value":"70"},
      {"title":"MVVM", "value":"60"},
      {"title":"IOS SDK", "value":"80"},
      {"title":"Cocoa touch Framework", "value":"70"},
-     {"title":"Xcode", "value":"80"}    
+     {"title":"Xcode", "value":"80"},
+     {"title":"GraphQL", "value":"70"},
+     {"title":"RxSwift", "value":"50"}
    ]
