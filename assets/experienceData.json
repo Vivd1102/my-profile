@@ -1,18 +1,7 @@
-[
-    {
-        "title":"iOS developer - Sands Technologies Pvt. Ltd.",
-        "year":"Jan 15 –  Feb 17",
-        "role" : "Responsible for developing app from scratch to the deployment of final product to app store."
-    },
-    {
-        "title":"Solution developer - Spadeworx Services Pvt. Ltd.",
-        "year":"Feb 17 – Feb 18",
-        "role":"Responsible for providing best solution for iOS mobile application from scratch to the deployment of final product to app store."
-    },
-    {
-        "title":"Sr. Software Enginner - Smartdata enterprises pvt Ltd.",
-        "year":"Feb 18 – Dec 19",
-        "role": "Responsible for developing app for different domain using Objective and Swift programming language.Part of client calls and also gathring requirements of application"
+[    {
+        "title":"Technical Specialist - Zensar technologies pvt Ltd.",
+        "year":"Oct 20 – till now",
+        "role": "Responsible for developing app for different domain using Objective c, Swift and SwiftUI programming language.I am working on Insurance and Banking application."
     },
     {
         "title":"Sr. Software Enginner - FSS pvt Ltd.",
@@ -20,8 +9,18 @@
         "role": "Responsible for developing  Banking app for different domain using Objective and Swift programming language. I worked on financial domain for open banking concept."
     },
     {
-        "title":"Sr. Software Enginner - Zensar technologies pvt Ltd.",
-        "year":"Oct 20 – till now",
-        "role": "Responsible for developing app for different domain using Objective and Swift programming language.I am working on Insurance and Banking application."
+        "title":"Software Associate - Smartdata enterprises pvt Ltd.",
+        "year":"Feb 18 – Dec 19",
+        "role": "Responsible for developing app for different domain using Objective and Swift programming language.Part of client calls and also gathring requirements of application"
+    },
+    {
+        "title":"Solution developer - Spadeworx Services Pvt. Ltd.",
+        "year":"Feb 17 – Feb 18",
+        "role":"Responsible for providing best solution for iOS mobile application from scratch to the deployment of final product to app store."
+    },
+    {
+        "title":"iOS developer - Sands Technologies Pvt. Ltd.",
+        "year":"Jan 15 –  Feb 17",
+        "role" : "Responsible for developing app from scratch to the deployment of final product to app store."
     }
   ]
