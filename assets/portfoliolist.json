@@ -1,21 +1,9 @@
 [
         {"name":"iOS Apps",
         "sublist":[
-            {"title":"Woolworths","more":true, "src":"mobile1_1.png",
-            "subimg":[
-            {"src":"mobile1_2.png"},
-            {"src":"mobile1_3.png"}
-            ]},
-            {"title":"Old Mutual","more":true, "src":"mobile1_1.png",
-            "subimg":[
-            {"src":"mobile1_2.png"},
-            {"src":"mobile1_3.png"}
-            ]},
-           {"title":"TIDE","more":true, "src":"mobile1_1.png",
-            "subimg":[
-            {"src":"mobile1_2.png"},
-            {"src":"mobile1_3.png"}
-            ]},
+            {"title":"Woolworths","more":false},
+            {"title":"Old Mutual","more":false},
+            {"title":"TIDE","more":false},
             {"title":"Restopics","more":true, "src":"mobile1_1.png",
             "subimg":[
             {"src":"mobile1_2.png"},
