@@ -1,11 +1,12 @@
 [
      {"title":"Objective C", "value":"70"},
      {"title":"Swift", "value":"80"},
+     {"title":"SwiftUI", "value":"70"}
      {"title":"MVC", "value":"70"},
-     {"title":"MVVM", "value":"60"},
+     {"title":"MVVM", "value":"70"},
      {"title":"IOS SDK", "value":"80"},
-     {"title":"Cocoa touch Framework", "value":"70"},
+     {"title":"Cocoa Pods Modular Programming", "value":"70"},
      {"title":"Xcode", "value":"80"},
      {"title":"GraphQL", "value":"70"},
-     {"title":"RxSwift", "value":"50"}
+     {"title":"RESTAPI Implementation ", "value":"80"}
    ]
